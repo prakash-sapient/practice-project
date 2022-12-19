@@ -1,0 +1,16 @@
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+
+    .app-sidemenu{
+        min-height: 100vh;
+    }
+    .app-main-display{
+        height: 100vh;
+    }
+
+}
